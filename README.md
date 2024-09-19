@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=skxphan" alt="skxphan" /></a> </p>
 
+<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/me_1.gif">
+
 - 🔭 I’m currently working on **SLAM, Object detection and tracking**
 
 - 🌱 I’m currently learning **ROS2**
