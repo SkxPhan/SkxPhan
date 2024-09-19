@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=skxphan" alt="skxphan" /></a> </p>
 
-<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/me_1.gif">
+<img align="right" alt="coding" width="350" src="https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/me_1.gif">
 
 - 🔭 I’m currently working on **SLAM, Object detection and tracking**
 
@@ -28,4 +28,6 @@
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=skxphan&show_icons=true&locale=en&layout=compact" alt="skxphan" /></p> -->
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=skxphan&show_icons=true&locale=en" alt="skxphan" /> <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=skxphan&" alt="skxphan" /> </p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=skxphan&show_icons=true&locale=en" alt="skxphan" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=skxphan&" alt="skxphan" /></p>
