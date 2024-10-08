@@ -7,7 +7,7 @@
 
 <img align="right" alt="coding" width="300" src="https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/me_1.gif">
 
-- 🔭 I’m currently working on **SLAM, Object detection and tracking**
+- 🔭 I’m currently working on **SLAM**
 
 - 🌱 I’m currently learning **ROS2**
 
